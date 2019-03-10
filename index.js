@@ -5,7 +5,7 @@ const admin = require('firebase-admin');
 
 admin.initializeApp(functions.config().firebase);
 
-var registrationToken = "estDyQL2mZY:APA91bHaRe5RtaALz6z1-UAKAHCR5rmPsG5epgkOuBxcv9daoeCXqqFuofq6Rpq2pHAfTMR_EO-tForRAXZKuQaUoJ5efTeZlXgf_Es12nngxfQBBXlpbCiOvYqbdm5K1tApJ3zqQkoT"
+var registrationToken = "**************************"
 
 
 
